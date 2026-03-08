@@ -9,10 +9,10 @@ eksik veriler, dağılımlar, ilginç örüntüler. Sonra makine öğrenmesiyle
 hayatta kalma tahmini yapan bir model kurdum.
 
 ## Neler Keşfettim?
-- Kadınların hayatta kalma oranı erkeklerin 4 katı 🚺
-- 1.sınıf yolcuların şansı 3.sınıfa göre çok daha yüksekti 💰
-- Küçük aileler yalnız yolculara göre daha şanslıydı 👨‍👩‍👧
-- Çocuklar öncelikli olarak kurtarıldı 👶
+- Kadınların hayatta kalma oranı erkeklerin 4 katı 
+- 1.sınıf yolcuların şansı 3.sınıfa göre çok daha yüksekti 
+- Küçük aileler yalnız yolculara göre daha şanslıydı 
+- Çocuklar öncelikli olarak kurtarıldı 
 
 ## Kullandıklarım
 - Python, Pandas, NumPy
