@@ -24,26 +24,5 @@ hayatta kalma tahmini yapan bir model kurdum.
 2. `titanic_eda.ipynb` dosyasını VSCode'da aç
 3. Hücreleri sırayla çalıştır (Shift + Enter)
 
-## 🔍 Repoyu İncelemek İsteyenler İçin
 
-1. Repoyu klonla:
-   git clone https://github.com/nebulalarca/titanic-survival-analysis.git
-
-2. Klasöre gir:
-   cd titanic-survival-analysis
-
-3. Gerekli kütüphaneleri yükle:
-   pip install pandas numpy matplotlib seaborn scikit-learn jupyter
-
-4. Notebook'u aç:
-   jupyter notebook titanic_eda.ipynb
-
-5. Hücreleri sırayla çalıştır (Shift + Enter)
-```
-
-Ekledikten sonra kaydet **(Cmd + S)**, sonra terminalde:
-```
-git add README.md
-git commit -m "Update README with setup instructions"
-git push
 
